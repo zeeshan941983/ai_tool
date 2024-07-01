@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51968337545",
+    "project_id": "wezeetool",
+    "storage_bucket": "wezeetool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51968337545:android:a0628dc6c3f4285dba0858",
+        "android_client_info": {
+          "package_name": "com.example.wezee_tool"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEG2Fgm6PQzvtb7zQNCX5ipcGn4kQrrgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
